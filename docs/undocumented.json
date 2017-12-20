@@ -1,0 +1,334 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": null,
+      "symbol": "SegmentedControl",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": null,
+      "symbol": "SegmentedControl",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 34,
+      "symbol": "SegmentedControlOptions.titleColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 35,
+      "symbol": "SegmentedControlOptions.titleFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 37,
+      "symbol": "SegmentedControlOptions.selectedTitleColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 38,
+      "symbol": "SegmentedControlOptions.selectedTitleFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 40,
+      "symbol": "SegmentedControlOptions.titleBorderWidth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 41,
+      "symbol": "SegmentedControlOptions.titleBorderColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 42,
+      "symbol": "SegmentedControlOptions.titleNumberOfLines",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 44,
+      "symbol": "SegmentedControlOptions.indicatorViewBackgroundColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 45,
+      "symbol": "SegmentedControlOptions.indicatorViewInset",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 46,
+      "symbol": "SegmentedControlOptions.indicatorViewBorderWidth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 47,
+      "symbol": "SegmentedControlOptions.indicatorViewBorderColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 49,
+      "symbol": "SegmentedControlOptions.alwaysAnnouncesValue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 50,
+      "symbol": "SegmentedControlOptions.announcesValueImmediately",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 51,
+      "symbol": "SegmentedControlOptions.panningDisabled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 53,
+      "symbol": "SegmentedControlOptions.backgroundColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 54,
+      "symbol": "SegmentedControlOptions.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 55,
+      "symbol": "SegmentedControlOptions.bouncesOnChange",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 58,
+      "symbol": "IndexError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 59,
+      "symbol": "IndexError.indexBeyondBounds",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 64,
+      "symbol": "SegmentedControl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 66,
+      "symbol": "SegmentedControl.index",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 67,
+      "symbol": "SegmentedControl.titles",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 90,
+      "symbol": "SegmentedControl.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 135,
+      "symbol": "SegmentedControl.bouncesOnChange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 136,
+      "symbol": "SegmentedControl.alwaysAnnouncesValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 137,
+      "symbol": "SegmentedControl.announcesValueImmediately",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 138,
+      "symbol": "SegmentedControl.panningDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 141,
+      "symbol": "SegmentedControl.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 149,
+      "symbol": "SegmentedControl.indicatorViewBackgroundColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 153,
+      "symbol": "SegmentedControl.indicatorViewInset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 154,
+      "symbol": "SegmentedControl.indicatorViewBorderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 158,
+      "symbol": "SegmentedControl.indicatorViewBorderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 162,
+      "symbol": "SegmentedControl.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 163,
+      "symbol": "SegmentedControl.selectedTitleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 164,
+      "symbol": "SegmentedControl.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 165,
+      "symbol": "SegmentedControl.selectedTitleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 166,
+      "symbol": "SegmentedControl.titleBorderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 167,
+      "symbol": "SegmentedControl.titleNumberOfLines",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 173,
+      "symbol": "SegmentedControl.titleBorderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 190,
+      "symbol": "SegmentedControl.init(frame:titles:index:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 198,
+      "symbol": "SegmentedControl.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 222,
+      "symbol": "SegmentedControl.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 241,
+      "symbol": "SegmentedControl.setIndex(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 249,
+      "symbol": "SegmentedControl.addSubview(toIndicator:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/GloomySunday/Documents/Git/GSSegmentedControl/GSSegmentedControl/SegmentedControl.swift",
+      "line": 257,
+      "symbol": "SegmentedControl.gestureRecognizerShouldBegin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/GloomySunday/Documents/Git/GSSegmentedControl"
+}
